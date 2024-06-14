@@ -1,0 +1,16 @@
+/*element selector*/
+p {
+    color: blue;
+}
+/*id selector*/
+#para2 {
+    color: red;
+}
+/*class selector*/
+.para1 {
+    color: green;
+}
+p.large {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
